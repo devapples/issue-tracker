@@ -1,0 +1,14 @@
+{
+  "severity": {
+    "name": {
+      "l": "Low",
+      "m": "Medium",
+      "h": "High"
+    },
+    "color": {
+      "l": "success",
+      "m": "warning",
+      "h": "danger"
+    }
+  }
+}
